@@ -23,3 +23,6 @@ settings/github.py
 tmp/*
 *.ipynb
 *ipynb*
+/.idea/
+/.coverage
+/coverage_html_report/

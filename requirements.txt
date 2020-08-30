@@ -7,3 +7,4 @@ cffi
 blitzdb
 sqlalchemy
 pyyaml
+tox
